@@ -1,0 +1,25 @@
+#custom {
+    padding-left: 5%;
+    padding-top: 50px;
+    align-content: center;
+}
+
+#leftDiv {
+    width: 25%;
+    float: left;
+    height: 300px;
+}
+
+#middleDiv {
+    width: 25%;
+    float: left;
+    padding-left: 50px;
+    height: 300px;
+}
+
+#rightDiv {
+    width: 25%;
+    float: right;
+    padding-left: 50px;
+    height: 300px;
+}
